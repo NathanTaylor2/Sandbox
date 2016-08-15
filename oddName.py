@@ -1,5 +1,5 @@
 """
-Nathan Taylor
+Name: Nathan Taylor
 """
 user_name = input("Please input your name.")
 second_letter = ""
